@@ -1,3 +1,7 @@
 #BodyStyle{
-    background: #efefef !important;
+    background: red !important;
+}
+
+.card-img-top {
+    height: 60% !important;
 }
