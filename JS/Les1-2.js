@@ -69,7 +69,10 @@ function Cijfer(num){
     }
 }
 
+if (!Cijfer.length == 4){    
 
+    console.log("test");
+}
 // Opdracht 2
 
 var cijfer = 6;
